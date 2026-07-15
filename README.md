@@ -46,6 +46,9 @@ reports what it *would* do.
 | [Campaign Budget Utilization](scripts/campaign-budget-utilization/) | Flags chronically capped and chronically idle campaign budgets — the two tails that waste money invisibly |
 | [Weekly Account Summary](scripts/weekly-account-summary/) | Monday morning in one email — week-over-week core metrics and the campaigns that moved them most |
 | [DSA Allowlist Fencing](scripts/dsa-allowlist-fencing/) | Keeps branded campaigns' DSA ad groups on-brand — off-allowlist search terms become negative exacts, the ad-group sibling of the shopping fence |
+| [Optimization Score Tracker](scripts/optimization-score-tracker/) | MCC-wide OptiScore history and floor alerts — the number Google judges you by, finally on a trend line |
+| [Auto-Applied Recommendations Digest](scripts/auto-applied-recommendations-digest/) | One morning email with every change Google applied automatically across the MCC — nothing changes without a human knowing |
+| [PMax Non-Converting Search Terms](scripts/pmax-nonconverting-search-terms/) | Digs the wasted-budget searches out of PMax search term insights — ranked, in a sheet, ready to become negatives |
 
 More coming — watch the repo.
 
