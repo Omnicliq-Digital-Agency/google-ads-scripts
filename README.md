@@ -5,8 +5,8 @@ Each script is a single self-contained file: paste it into **Tools → Bulk
 actions → Scripts**, edit the `CONFIG` block at the top, preview, schedule.
 
 These are standalone editions of automations we run daily on client accounts.
-Every script ships with `PREVIEW_MODE: true` by default — the first run only
-reports what it *would* do.
+Scripts that can change an account ship with `PREVIEW_MODE: true` by default;
+report-only scripts make no account changes.
 
 ## Scripts
 
