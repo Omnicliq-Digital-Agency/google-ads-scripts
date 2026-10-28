@@ -49,6 +49,7 @@ report-only scripts make no account changes.
 | [Optimization Score Tracker](scripts/optimization-score-tracker/) | MCC-wide OptiScore history and floor alerts — the number Google judges you by, finally on a trend line |
 | [Auto-Applied Recommendations Digest](scripts/auto-applied-recommendations-digest/) | One morning email with every change Google applied automatically across the MCC — nothing changes without a human knowing |
 | [PMax Non-Converting Search Terms](scripts/pmax-nonconverting-search-terms/) | Digs the wasted-budget searches out of PMax search term insights — ranked, in a sheet, ready to become negatives |
+| [Merchant Center Feed Fetch](scripts/merchant-center-feed-fetch/) | Makes Merchant Center fetch your scheduled feeds on every run and reports failing fetches — fresh prices and stock between the daily fetches |
 
 More coming — watch the repo.
 
